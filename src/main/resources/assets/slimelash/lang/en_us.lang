@@ -1,4 +1,5 @@
 item.dartarmorboots.name=Dart Armor Boots
+item.chips.name=Chips
 advancements.povarfatgay.title=povarfatgay
 item.dartarmorlegs.name=Dart Armor Leggings
 itemGroup.tabloltab=LOLTAB
@@ -6,4 +7,5 @@ item.dartarmorbody.name=Dart Armor Body
 item.dartarmorhelmet.name=Dart Armor Helmet
 tile.bitchblock.name=Bitch Block
 item.dartdimension.name=Dart Dimension Portal Igniter
+fluid.dartfluid=DartFluid
 advancements.povarfatgay.descr=Пиздец, так и знал!

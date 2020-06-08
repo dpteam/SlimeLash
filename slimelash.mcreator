@@ -66,6 +66,22 @@
       "ids": {
         "1": 1
       }
+    },
+    {
+      "name": "DartFluid",
+      "type": "fluid",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Chips",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -73,6 +89,7 @@
   "language_map": {
     "en_us": {
       "item.dartarmorboots.name": "Dart Armor Boots",
+      "item.chips.name": "Chips",
       "advancements.povarfatgay.title": "povarfatgay",
       "item.dartarmorlegs.name": "Dart Armor Leggings",
       "itemGroup.tabloltab": "LOLTAB",
@@ -80,6 +97,7 @@
       "item.dartarmorhelmet.name": "Dart Armor Helmet",
       "tile.bitchblock.name": "Bitch Block",
       "item.dartdimension.name": "Dart Dimension Portal Igniter",
+      "fluid.dartfluid": "DartFluid",
       "advancements.povarfatgay.descr": "Пиздец, так и знал!"
     }
   },
