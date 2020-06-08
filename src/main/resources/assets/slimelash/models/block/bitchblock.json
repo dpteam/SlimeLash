@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "slimelash:blocks/bitchblock",
+    "particle": "slimelash:blocks/bitchblock"
+  }
+}

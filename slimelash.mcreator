@@ -1,10 +1,65 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "PovarFatGay",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DartArmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MagmaBiome",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitchBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DPTONTOP",
+      "type": "command",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.dartarmorboots.name": "Dart Armor Boots",
+      "advancements.povarfatgay.title": "povarfatgay",
+      "item.dartarmorlegs.name": "Dart Armor Leggings",
+      "item.dartarmorbody.name": "Dart Armor Body",
+      "item.dartarmorhelmet.name": "Dart Armor Helmet",
+      "tile.bitchblock.name": "Bitch Block",
+      "advancements.povarfatgay.descr": "Пиздец, так и знал!"
+    }
   },
   "workspaceSettings": {
     "modid": "slimelash",
