@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "slimelash:dartdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "slimelash:dartdimension_portal_ns"
+    },
+    "inventory": {
+      "model": "slimelash:dartdimension_portal_ns"
+    }
+  }
+}

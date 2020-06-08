@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "LOLTAB",
+    "icon": {
+      "value": "Blocks.FIRE"
+    },
+    "showSearch": true
+  }
+}

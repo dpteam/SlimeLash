@@ -1,5 +1,7 @@
 {
-  "id_map": {},
+  "id_map": {
+    "DIMENSION": 1
+  },
   "mod_elements": [
     {
       "name": "PovarFatGay",
@@ -46,6 +48,24 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "LOLTAB",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DartDimension",
+      "type": "dimension",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
     }
   ],
   "variable_elements": [],
@@ -55,9 +75,11 @@
       "item.dartarmorboots.name": "Dart Armor Boots",
       "advancements.povarfatgay.title": "povarfatgay",
       "item.dartarmorlegs.name": "Dart Armor Leggings",
+      "itemGroup.tabloltab": "LOLTAB",
       "item.dartarmorbody.name": "Dart Armor Body",
       "item.dartarmorhelmet.name": "Dart Armor Helmet",
       "tile.bitchblock.name": "Bitch Block",
+      "item.dartdimension.name": "Dart Dimension Portal Igniter",
       "advancements.povarfatgay.descr": "Пиздец, так и знал!"
     }
   },
